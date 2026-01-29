@@ -12,12 +12,12 @@ import type { FILTER_PRODUCTS_BY_NAME_QUERYResult } from "@/sanity.types";
 
 interface Product {
   _id: string;
-  _type: "product";
+  _type?: "product";
   name: string;
   price: number;
-  description: string;
+  description?: string;
   slug: string;
-  imageUrl: string;
+  imageUrl?: string;
   images: any[];
   category?: { title: string };
   brand?: { name: string; logo: string };
