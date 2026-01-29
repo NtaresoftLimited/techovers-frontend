@@ -13,10 +13,10 @@ import type { FILTER_PRODUCTS_BY_NAME_QUERYResult } from "@/sanity.types";
 interface Product {
   _id: string;
   _type?: "product";
-  name: string;
-  price: number;
+  name: string | null;
+  price: number | null;
   description?: string;
-  slug: string;
+  slug: string | null;
   imageUrl?: string;
   images: any[];
   category?: { title: string };
@@ -43,12 +43,13 @@ export function ProductCard({ product }: ProductCardProps) {
   const hasMultipleImages = images.length > 1;
 
   // Pricing with discounts
+  const productPrice = product.price ?? 0;
   const hasDiscount = (product.discountPercentage ?? 0) > 0;
-  const originalPrice = hasDiscount ? product.price / (1 - (product.discountPercentage! / 100)) : product.price;
+  const originalPrice = hasDiscount ? productPrice / (1 - (product.discountPercentage! / 100)) : productPrice;
 
   return (
     <Card className="group relative flex h-full flex-col overflow-hidden rounded-[2rem] border border-zinc-50 bg-white p-0 shadow-[0_10px_30px_rgba(0,0,0,0.03)] transition-all duration-500 hover:-translate-y-2 hover:shadow-[0_20px_50px_rgba(0,0,0,0.08)]">
-      <Link href={`/products/${product.slug}`} className="block">
+      <Link href={`/products/${product.slug ?? "#"}`} className="block">
         <div className="relative aspect-square overflow-hidden bg-white p-8">
           {displayedImageUrl ? (
             <div className="relative h-full w-full bg-white rounded-[2rem] overflow-hidden flex items-center justify-center p-4 transition-all duration-500 group-hover:scale-110">
@@ -112,9 +113,9 @@ export function ProductCard({ product }: ProductCardProps) {
               </span>
             )}
           </div>
-          <Link href={`/products/${product.slug}`} className="block">
+          <Link href={`/products/${product.slug ?? "#"}`} className="block">
             <h3 className="line-clamp-2 text-sm font-bold text-black leading-snug tracking-tight">
-              {product.name}
+              {product.name ?? "Unknown Product"}
             </h3>
           </Link>
         </div>
@@ -122,7 +123,7 @@ export function ProductCard({ product }: ProductCardProps) {
         <div className="space-y-4">
           <div className="flex items-baseline gap-3">
             <p className="text-2xl font-black tracking-tightest text-black">
-              {formatPrice(product.price)}
+              {formatPrice(productPrice)}
             </p>
             {hasDiscount && (
               <p className="text-xs text-zinc-400 line-through font-bold tracking-tight">
