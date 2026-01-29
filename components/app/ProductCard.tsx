@@ -18,7 +18,7 @@ interface Product {
   description?: string;
   slug: string | null;
   imageUrl?: string;
-  images: any[];
+  images?: any[] | null;
   category?: { title: string };
   brand?: { name: string; logo: string };
   stock?: number;
