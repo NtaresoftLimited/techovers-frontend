@@ -21,7 +21,7 @@ interface Product {
   images?: any[] | null;
   category?: { title: string | null } | null;
   brand?: { name: string | null; logo: string | null } | null;
-  stock?: number;
+  stock?: number | null;
   isExpress?: boolean;
   isBestseller?: boolean;
   discountPercentage?: number;
