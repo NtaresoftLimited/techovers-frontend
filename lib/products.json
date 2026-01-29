@@ -1,0 +1,2048 @@
+[
+  {
+    "_id": "0182f089-9f20-44b6-b4ca-d308206188ef",
+    "_type": "product",
+    "name": "ANKER 20W ADAPTER",
+    "price": 60000.0,
+    "description": "ANKER 20W ADAPTER",
+    "slug": {
+      "current": "anker-20w-adapter"
+    },
+    "imageUrl": "/placeholder.png"
+  },
+  {
+    "_id": "706246cd-2451-402e-a2f5-2327d2d96284",
+    "_type": "product",
+    "name": "ANKER 20W WITH USB-C CABLE BLACK",
+    "price": 65000.0,
+    "description": "ANKER 20W WITH USB-C CABLE BLACK",
+    "slug": {
+      "current": "anker-20w-with-usb-c-cable-black"
+    },
+    "imageUrl": "/placeholder.png"
+  },
+  {
+    "_id": "807b3a06-68c4-4f74-b516-bd91847be9ee",
+    "_type": "product",
+    "name": "ANKER COMPACT 33W DUAL-DEVICE CHARGER",
+    "price": 90000.0,
+    "description": "ANKER COMPACT 33W DUAL-DEVICE CHARGER",
+    "slug": {
+      "current": "anker-compact-33w-dual-device-charger"
+    },
+    "imageUrl": "/placeholder.png"
+  },
+  {
+    "_id": "1fc5c2fa-a765-4d24-9289-0d3927492c96",
+    "_type": "product",
+    "name": "ANKER MAGGO WIRELESS CHARGER PAD BUILT-IN USB-C CABLE WITH CAR ADAPTER",
+    "price": 285000.0,
+    "description": "ANKER MAGGO WIRELESS CHARGER PAD BUILT-IN USB-C CABLE WITH CAR ADAPTER",
+    "slug": {
+      "current": "anker-maggo-wireless-charger-pad-built-in-usb-c-cable-with-car-adapter"
+    },
+    "imageUrl": "/placeholder.png"
+  },
+  {
+    "_id": "97dbcb95-1eb9-4da8-855e-d5522d6d2a1f",
+    "_type": "product",
+    "name": "ANKER POWER EXPAND 4 IN 1 SSD USB-C HUB 256GB",
+    "price": 350000.0,
+    "description": "ANKER POWER EXPAND 4 IN 1 SSD USB-C HUB 256GB",
+    "slug": {
+      "current": "anker-power-expand-4-in-1-ssd-usb-c-hub-256gb"
+    },
+    "imageUrl": "/placeholder.png"
+  },
+  {
+    "_id": "b2c1aa3b-95e4-4732-9d31-93a210870483",
+    "_type": "product",
+    "name": "ANKER POWER WAVE PAD",
+    "price": 150000.0,
+    "description": "ANKER POWER WAVE PAD",
+    "slug": {
+      "current": "anker-power-wave-pad"
+    },
+    "imageUrl": "/placeholder.png"
+  },
+  {
+    "_id": "61fc1301-aedc-4d4b-bb40-710967a68952",
+    "_type": "product",
+    "name": "ANKER POWERLINE+ II USB-A TO L",
+    "price": 40000.0,
+    "description": "ANKER POWERLINE+ II USB-A TO L",
+    "slug": {
+      "current": "anker-powerline+-ii-usb-a-to-l"
+    },
+    "imageUrl": "/placeholder.png"
+  },
+  {
+    "_id": "5773dda0-ed2b-4864-ae60-a89c7f2ab65b",
+    "_type": "product",
+    "name": "ANKER ULTRA FAST 2 IN 1 CHARGING DOCK",
+    "price": 350000.0,
+    "description": "ANKER ULTRA FAST 2 IN 1 CHARGING DOCK",
+    "slug": {
+      "current": "anker-ultra-fast-2-in-1-charging-dock"
+    },
+    "imageUrl": "/placeholder.png"
+  },
+  {
+    "_id": "f5ef8b7f-713a-4006-9681-f18874108779",
+    "_type": "product",
+    "name": "Anker USB A to USB C",
+    "price": 35000.0,
+    "description": "Anker USB A to USB C",
+    "slug": {
+      "current": "anker-usb-a-to-usb-c"
+    },
+    "imageUrl": "/placeholder.png"
+  },
+  {
+    "_id": "9513b4ed-3e33-4a21-bb4d-d3cdd5ebdae7",
+    "_type": "product",
+    "name": "ANKER USB C TO USB C 1.2M 140W",
+    "price": 50000.0,
+    "description": "ANKER USB C TO USB C 1.2M 140W",
+    "slug": {
+      "current": "anker-usb-c-to-usb-c-1.2m-140w"
+    },
+    "imageUrl": "/placeholder.png"
+  },
+  {
+    "_id": "f81ab3b6-061e-44a1-8abf-4b67c3a900c1",
+    "_type": "product",
+    "name": "ANKER USB C TO USB C 100W",
+    "price": 50000.0,
+    "description": "ANKER USB C TO USB C 100W",
+    "slug": {
+      "current": "anker-usb-c-to-usb-c-100w"
+    },
+    "imageUrl": "/placeholder.png"
+  },
+  {
+    "_id": "169a5139-4e21-459e-abcb-acdd1a5fd8b0",
+    "_type": "product",
+    "name": "Anker Zolo Power Bank 25K 165W",
+    "price": 250000.0,
+    "description": "Anker Zolo Power Bank 25K 165W",
+    "slug": {
+      "current": "anker-zolo-power-bank-25k-165w"
+    },
+    "imageUrl": "/placeholder.png"
+  },
+  {
+    "_id": "77f38cad-9606-45d1-8b73-91f636e36fe8",
+    "_type": "product",
+    "name": "ANKER ZOLO USB-C TO USB-C 3.3FT 240W CABLE",
+    "price": 65000.0,
+    "description": "ANKER ZOLO USB-C TO USB-C 3.3FT 240W CABLE",
+    "slug": {
+      "current": "anker-zolo-usb-c-to-usb-c-3.3ft-240w-cable"
+    },
+    "imageUrl": "/placeholder.png"
+  },
+  {
+    "_id": "eefee292-5dee-4347-880d-90fa12f0b8e1",
+    "_type": "product",
+    "name": "APPLE 20W POWER ADAPTER",
+    "price": 80000.0,
+    "description": "APPLE 20W POWER ADAPTER",
+    "slug": {
+      "current": "apple-20w-power-adapter"
+    },
+    "imageUrl": "/placeholder.png"
+  },
+  {
+    "_id": "2f757c2c-e92a-4620-b7ca-b4827df7f812",
+    "_type": "product",
+    "name": "APPLE 20W POWER ADAPTER (CC)",
+    "price": 35000.0,
+    "description": "APPLE 20W POWER ADAPTER (CC)",
+    "slug": {
+      "current": "apple-20w-power-adapter-(cc)"
+    },
+    "imageUrl": "/placeholder.png"
+  },
+  {
+    "_id": "ff4c02e9-585b-4250-a746-d37a7fd06275",
+    "_type": "product",
+    "name": "APPLE 60W USB-C TO USB-C 1M",
+    "price": 65000.0,
+    "description": "APPLE 60W USB-C TO USB-C 1M",
+    "slug": {
+      "current": "apple-60w-usb-c-to-usb-c-1m"
+    },
+    "imageUrl": "/placeholder.png"
+  },
+  {
+    "_id": "ec909b2c-ef5c-4426-8073-5306533bae3f",
+    "_type": "product",
+    "name": "APPLE USB-C TO LIGHTNING 1M (CC)",
+    "price": 20000.0,
+    "description": "APPLE USB-C TO LIGHTNING 1M (CC)",
+    "slug": {
+      "current": "apple-usb-c-to-lightning-1m-(cc)"
+    },
+    "imageUrl": "/placeholder.png"
+  },
+  {
+    "_id": "da258e58-d07a-4d9b-8e5f-c8cce40c396a",
+    "_type": "product",
+    "name": "APPLE USB-C TO USB-C 1M (CC)",
+    "price": 20000.0,
+    "description": "APPLE USB-C TO USB-C 1M (CC)",
+    "slug": {
+      "current": "apple-usb-c-to-usb-c-1m-(cc)"
+    },
+    "imageUrl": "/placeholder.png"
+  },
+  {
+    "_id": "f63ebf0a-70f0-4232-b806-f31080e49450",
+    "_type": "product",
+    "name": "APPLE USB-C TO USB-C 240W 2M",
+    "price": 100000.0,
+    "description": "APPLE USB-C TO USB-C 240W 2M",
+    "slug": {
+      "current": "apple-usb-c-to-usb-c-240w-2m"
+    },
+    "imageUrl": "/placeholder.png"
+  },
+  {
+    "_id": "34cfff93-005f-43c6-8d04-b1079772793a",
+    "_type": "product",
+    "name": "Baseus AirGO AS01",
+    "price": 100000.0,
+    "description": "Baseus AirGO AS01",
+    "slug": {
+      "current": "baseus-airgo-as01"
+    },
+    "imageUrl": "/placeholder.png"
+  },
+  {
+    "_id": "28bd7e7f-76eb-4e89-a2d5-69dedf740b14",
+    "_type": "product",
+    "name": "BASEUS car charger retractable 60Watts",
+    "price": 65000.0,
+    "description": "BASEUS car charger retractable 60Watts",
+    "slug": {
+      "current": "baseus-car-charger-retractable-60watts"
+    },
+    "imageUrl": "/placeholder.png"
+  },
+  {
+    "_id": "e4bc5f58-fd21-4cf3-9fe4-e93996fbab7d",
+    "_type": "product",
+    "name": "Baseus EnerGeek GP12",
+    "price": 200000.0,
+    "description": "Baseus EnerGeek GP12",
+    "slug": {
+      "current": "baseus-energeek-gp12"
+    },
+    "imageUrl": "/placeholder.png"
+  },
+  {
+    "_id": "b8cbb345-a8dd-40a5-b9b4-cc71eafa7daa",
+    "_type": "product",
+    "name": "Baseus Retractable 2 in 1 car charger",
+    "price": 55000.0,
+    "description": "Baseus Retractable 2 in 1 car charger",
+    "slug": {
+      "current": "baseus-retractable-2-in-1-car-charger"
+    },
+    "imageUrl": "/placeholder.png"
+  },
+  {
+    "_id": "c14023b3-671a-4fef-bc98-316ec42e63b0",
+    "_type": "product",
+    "name": "Baseus S-09 Pro Series",
+    "price": 65000.0,
+    "description": "Baseus S-09 Pro Series",
+    "slug": {
+      "current": "baseus-s-09-pro-series"
+    },
+    "imageUrl": "/placeholder.png"
+  },
+  {
+    "_id": "000256a2-8275-4ca5-97ee-c8a6e73a1f95",
+    "_type": "product",
+    "name": "Beats USB C to C 1.4m",
+    "price": 65000.0,
+    "description": "Beats USB C to C 1.4m",
+    "slug": {
+      "current": "beats-usb-c-to-c-1.4m"
+    },
+    "imageUrl": "/placeholder.png"
+  },
+  {
+    "_id": "8418de1b-c4b7-478b-96a2-0df1ceac7a70",
+    "_type": "product",
+    "name": "BINKSON LEATHER STRAPS",
+    "price": 35000.0,
+    "description": "BINKSON LEATHER STRAPS",
+    "slug": {
+      "current": "binkson-leather-straps"
+    },
+    "imageUrl": "/placeholder.png"
+  },
+  {
+    "_id": "d04a0c8f-d816-4a3a-af20-32a327a4237f",
+    "_type": "product",
+    "name": "BINKSON MAGNETIC STRAP",
+    "price": 25000.0,
+    "description": "BINKSON MAGNETIC STRAP",
+    "slug": {
+      "current": "binkson-magnetic-strap"
+    },
+    "imageUrl": "/placeholder.png"
+  },
+  {
+    "_id": "0d48ce2d-8d17-4837-86b5-0010b1cb0e50",
+    "_type": "product",
+    "name": "BLUE PRIVACY PROTECTOR FOR 13 PRO MAX",
+    "price": 30000.0,
+    "description": "BLUE PRIVACY PROTECTOR FOR 13 PRO MAX",
+    "slug": {
+      "current": "blue-privacy-protector-for-13-pro-max"
+    },
+    "imageUrl": "/placeholder.png"
+  },
+  {
+    "_id": "2d296ce1-085b-4ea5-92c3-0644d5abcb31",
+    "_type": "product",
+    "name": "BLUEO PRIVACY PROTECTOR FOR 15 PRO MAX",
+    "price": 30000.0,
+    "description": "BLUEO PRIVACY PROTECTOR FOR 15 PRO MAX",
+    "slug": {
+      "current": "blueo-privacy-protector-for-15-pro-max"
+    },
+    "imageUrl": "/placeholder.png"
+  },
+  {
+    "_id": "80ba8145-e7a3-4c2e-9549-596ba63b9c3c",
+    "_type": "product",
+    "name": "BLUEO PRIVACY PROTECTOR FOR IPHONE 12-12PRO",
+    "price": 30000.0,
+    "description": "BLUEO PRIVACY PROTECTOR FOR IPHONE 12/12PRO",
+    "slug": {
+      "current": "blueo-privacy-protector-for-iphone-12-12pro"
+    },
+    "imageUrl": "/placeholder.png"
+  },
+  {
+    "_id": "89b2bd7a-e20e-46bc-a414-b4cd8460110d",
+    "_type": "product",
+    "name": "BLUEO PRIVACY PROTECTOR FOR IPHONE 12PRO MAX",
+    "price": 30000.0,
+    "description": "BLUEO PRIVACY PROTECTOR FOR IPHONE 12PRO MAX",
+    "slug": {
+      "current": "blueo-privacy-protector-for-iphone-12pro-max"
+    },
+    "imageUrl": "/placeholder.png"
+  },
+  {
+    "_id": "3437ff05-0994-4316-960e-6d81cb94e9ee",
+    "_type": "product",
+    "name": "BLUEO PRIVACY PROTECTOR FOR IPHONE 14PRO MAX",
+    "price": 30000.0,
+    "description": "BLUEO PRIVACY PROTECTOR FOR IPHONE 14PRO MAX",
+    "slug": {
+      "current": "blueo-privacy-protector-for-iphone-14pro-max"
+    },
+    "imageUrl": "/placeholder.png"
+  },
+  {
+    "_id": "5901e847-f12a-4226-849f-85dcb513bcb7",
+    "_type": "product",
+    "name": "BLUEO PRIVACY PROTECTOR FOR IPHONE 15PLUS",
+    "price": 30000.0,
+    "description": "BLUEO PRIVACY PROTECTOR FOR IPHONE 15PLUS",
+    "slug": {
+      "current": "blueo-privacy-protector-for-iphone-15plus"
+    },
+    "imageUrl": "/placeholder.png"
+  },
+  {
+    "_id": "613ea598-fa30-45fe-9874-d42e96f3632c",
+    "_type": "product",
+    "name": "BLUEO PRIVACY PROTECTOR FOR IPHONE 15PRO",
+    "price": 30000.0,
+    "description": "BLUEO PRIVACY PROTECTOR FOR IPHONE 15PRO",
+    "slug": {
+      "current": "blueo-privacy-protector-for-iphone-15pro"
+    },
+    "imageUrl": "/placeholder.png"
+  },
+  {
+    "_id": "3208ad48-af0f-4316-8772-99964ab3deea",
+    "_type": "product",
+    "name": "BLUEO PRIVACY PROTECTOR FOR IPHONE 15PRO MAX",
+    "price": 30000.0,
+    "description": "BLUEO PRIVACY PROTECTOR FOR IPHONE 15PRO MAX",
+    "slug": {
+      "current": "blueo-privacy-protector-for-iphone-15pro-max"
+    },
+    "imageUrl": "/placeholder.png"
+  },
+  {
+    "_id": "78f1ac44-f359-46a4-8643-bca5a3a70528",
+    "_type": "product",
+    "name": "BLUEO PRIVACY PROTECTOR FOR IPHONE 16PRO",
+    "price": 30000.0,
+    "description": "BLUEO PRIVACY PROTECTOR FOR IPHONE 16PRO",
+    "slug": {
+      "current": "blueo-privacy-protector-for-iphone-16pro"
+    },
+    "imageUrl": "/placeholder.png"
+  },
+  {
+    "_id": "93ce27fb-79ba-498f-a6e9-5df37e6a9492",
+    "_type": "product",
+    "name": "BLUEO PRIVACY PROTECTOR FOR IPHONE 16PRO MAX",
+    "price": 30000.0,
+    "description": "BLUEO PRIVACY PROTECTOR FOR IPHONE 16PRO MAX",
+    "slug": {
+      "current": "blueo-privacy-protector-for-iphone-16pro-max"
+    },
+    "imageUrl": "/placeholder.png"
+  },
+  {
+    "_id": "dfb7c031-5fcb-4764-9c78-da885a70210a",
+    "_type": "product",
+    "name": "Brave Tech Pouch BTP 02",
+    "price": 85000.0,
+    "description": "Brave Tech Pouch BTP 02",
+    "slug": {
+      "current": "brave-tech-pouch-btp-02"
+    },
+    "imageUrl": "/placeholder.png"
+  },
+  {
+    "_id": "5e031df1-c47a-4b37-8ee4-b20a1924c21a",
+    "_type": "product",
+    "name": "DUDAO K22+ POWERBANK 10000MAH",
+    "price": 65000.0,
+    "description": "DUDAO K22+ POWERBANK 10000MAH",
+    "slug": {
+      "current": "dudao-k22+-powerbank-10000mah"
+    },
+    "imageUrl": "/placeholder.png"
+  },
+  {
+    "_id": "7f0263a2-f0f6-4c03-8be8-e2310b9d9210",
+    "_type": "product",
+    "name": "DUDAO L11PRO LIGHTNING TO AUX",
+    "price": 20000.0,
+    "description": "DUDAO L11PRO LIGHTNING TO AUX",
+    "slug": {
+      "current": "dudao-l11pro-lightning-to-aux"
+    },
+    "imageUrl": "/placeholder.png"
+  },
+  {
+    "_id": "9e7cb379-1669-4afe-b996-2fb16e5ccee1",
+    "_type": "product",
+    "name": "DUDAO L11PROT TYPE C TO AUX",
+    "price": 20000.0,
+    "description": "DUDAO L11PROT TYPE C TO AUX",
+    "slug": {
+      "current": "dudao-l11prot-type-c-to-aux"
+    },
+    "imageUrl": "/placeholder.png"
+  },
+  {
+    "_id": "d16fa926-7be9-4354-90d9-ceab6371c7bd",
+    "_type": "product",
+    "name": "DUDAO X1PROT TYPE C EARPHONES",
+    "price": 20000.0,
+    "description": "DUDAO X1PROT TYPE C EARPHONES",
+    "slug": {
+      "current": "dudao-x1prot-type-c-earphones"
+    },
+    "imageUrl": "/placeholder.png"
+  },
+  {
+    "_id": "3905e5b3-6480-4497-8c24-01501941c1dc",
+    "_type": "product",
+    "name": "EARLDOM LONDON BUSINESS FINGERPRINT LOCK HANDBAG",
+    "price": 150000.0,
+    "description": "EARLDOM LONDON BUSINESS FINGERPRINT LOCK HANDBAG",
+    "slug": {
+      "current": "earldom-london-business-fingerprint-lock-handbag"
+    },
+    "imageUrl": "/placeholder.png"
+  },
+  {
+    "_id": "24fa4fb4-45d3-46ea-a010-456cc241cd1c",
+    "_type": "product",
+    "name": "EARLDOM SAELON FINGERPRINT LOCK HANDBAG",
+    "price": 150000.0,
+    "description": "EARLDOM SAELON FINGERPRINT LOCK HANDBAG",
+    "slug": {
+      "current": "earldom-saelon-fingerprint-lock-handbag"
+    },
+    "imageUrl": "/placeholder.png"
+  },
+  {
+    "_id": "8acc13c5-64b6-4df5-9280-e2bf93eb3c62",
+    "_type": "product",
+    "name": "EARPODS LIGHTINING CONNECTOR",
+    "price": 80000.0,
+    "description": "EARPODS LIGHTINING CONNECTOR",
+    "slug": {
+      "current": "earpods-lightining-connector"
+    },
+    "imageUrl": "/placeholder.png"
+  },
+  {
+    "_id": "2edf0c49-23ef-44dd-87c1-5ed214a4daf1",
+    "_type": "product",
+    "name": "EARPODS USB-C",
+    "price": 80000.0,
+    "description": "EARPODS USB-C",
+    "slug": {
+      "current": "earpods-usb-c"
+    },
+    "imageUrl": "/placeholder.png"
+  },
+  {
+    "_id": "02a9f751-aa52-4f38-b578-de478bc1ca15",
+    "_type": "product",
+    "name": "EPSON EB-W51 Projector",
+    "price": 1850000.0,
+    "description": "EPSON EB-W51 Projector",
+    "slug": {
+      "current": "epson-eb-w51-projector"
+    },
+    "imageUrl": "/placeholder.png"
+  },
+  {
+    "_id": "b752ff36-e644-4a17-bec5-3352a747546c",
+    "_type": "product",
+    "name": "GEEKRIA EARPADS FOR ANKER SOUNDCORE",
+    "price": 65000.0,
+    "description": "GEEKRIA EARPADS FOR ANKER SOUNDCORE",
+    "slug": {
+      "current": "geekria-earpads-for-anker-soundcore"
+    },
+    "imageUrl": "/placeholder.png"
+  },
+  {
+    "_id": "48e0eec2-b3d2-4e94-87ff-525782d8f15d",
+    "_type": "product",
+    "name": "Green Lion 4G Kids Smartwatch Pro",
+    "price": 200000.0,
+    "description": "Green Lion 4G Kids Smartwatch Pro",
+    "slug": {
+      "current": "green-lion-4g-kids-smartwatch-pro"
+    },
+    "imageUrl": "/placeholder.png"
+  },
+  {
+    "_id": "d2b7403d-ef29-4f2d-8860-1295770f5273",
+    "_type": "product",
+    "name": "Green Lion Classic Toaster",
+    "price": 200000.0,
+    "description": "Green Lion Classic Toaster",
+    "slug": {
+      "current": "green-lion-classic-toaster"
+    },
+    "imageUrl": "/placeholder.png"
+  },
+  {
+    "_id": "e0697815-447c-410a-b088-b78d94582b4e",
+    "_type": "product",
+    "name": "Green Lion Encore Max",
+    "price": 275000.0,
+    "description": "Green Lion Encore Max",
+    "slug": {
+      "current": "green-lion-encore-max"
+    },
+    "imageUrl": "/placeholder.png"
+  },
+  {
+    "_id": "6566833b-7eaa-4457-b91b-5f00d97c4a22",
+    "_type": "product",
+    "name": "GREEN LION G266 BEETLES MOUSE",
+    "price": 65000.0,
+    "description": "GREEN LION G266 BEETLES MOUSE",
+    "slug": {
+      "current": "green-lion-g266-beetles-mouse"
+    },
+    "imageUrl": "/placeholder.png"
+  },
+  {
+    "_id": "57aaa8ee-5f2a-4cf2-a436-ff12d44ba016",
+    "_type": "product",
+    "name": "Green Lion PV protector S24 ULTRA",
+    "price": 30000.0,
+    "description": "Green Lion PV protector S24 ULTRA",
+    "slug": {
+      "current": "green-lion-pv-protector-s24-ultra"
+    },
+    "imageUrl": "/placeholder.png"
+  },
+  {
+    "_id": "137f0011-648f-4952-ac6c-7b04041197bb",
+    "_type": "product",
+    "name": "HEATZ KEYCAP MOUSE",
+    "price": 35000.0,
+    "description": "HEATZ KEYCAP MOUSE",
+    "slug": {
+      "current": "heatz-keycap-mouse"
+    },
+    "imageUrl": "/placeholder.png"
+  },
+  {
+    "_id": "29479d1f-4c8c-4c28-8c83-3a2bffb6ad11",
+    "_type": "product",
+    "name": "HEATZ ZM15 WIRELESS MOUSE",
+    "price": 35000.0,
+    "description": "HEATZ ZM15 WIRELESS MOUSE",
+    "slug": {
+      "current": "heatz-zm15-wireless-mouse"
+    },
+    "imageUrl": "/placeholder.png"
+  },
+  {
+    "_id": "3aa72c79-8c7c-4619-87e5-2e047ff4be76",
+    "_type": "product",
+    "name": "HP All in One PC 22dg0013",
+    "price": 1500000.0,
+    "description": "HP All in One PC 22dg0013",
+    "slug": {
+      "current": "hp-all-in-one-pc-22dg0013"
+    },
+    "imageUrl": "/placeholder.png"
+  },
+  {
+    "_id": "b8fb1499-2dda-481a-8f5e-1c3b14590b72",
+    "_type": "product",
+    "name": "HP i3 14inch 12th Gen 8gb 256gb win11",
+    "price": 1100000.0,
+    "description": "HP i3 14inch 12th Gen 8gb 256gb win11",
+    "slug": {
+      "current": "hp-i3-14inch-12th-gen-8gb-256gb-win11"
+    },
+    "imageUrl": "/placeholder.png"
+  },
+  {
+    "_id": "c5f418ac-3ae3-42ed-919b-58c5cfe12f97",
+    "_type": "product",
+    "name": "HUAWEI MOBILE 4G MOBILE WIFI 5",
+    "price": 150000.0,
+    "description": "HUAWEI MOBILE 4G MOBILE WIFI 5",
+    "slug": {
+      "current": "huawei-mobile-4g-mobile-wifi-5"
+    },
+    "imageUrl": "/placeholder.png"
+  },
+  {
+    "_id": "0af462d4-2ea3-4078-b348-ebac8244530e",
+    "_type": "product",
+    "name": "HUAWEI MOBILE WIFI 5 2400mAh",
+    "price": 150000.0,
+    "description": "HUAWEI MOBILE WIFI 5 2400mAh",
+    "slug": {
+      "current": "huawei-mobile-wifi-5-2400mah"
+    },
+    "imageUrl": "/placeholder.png"
+  },
+  {
+    "_id": "0ff6b32c-8948-471b-863f-5c675045a03d",
+    "_type": "product",
+    "name": "HUAWEI MOBILE WIFI LTE CAT7",
+    "price": 250000.0,
+    "description": "HUAWEI MOBILE WIFI LTE CAT7",
+    "slug": {
+      "current": "huawei-mobile-wifi-lte-cat7"
+    },
+    "imageUrl": "/placeholder.png"
+  },
+  {
+    "_id": "93ada45d-240e-4aaa-81f9-73570e384ad5",
+    "_type": "product",
+    "name": "HUAWEI WATCH GT 5",
+    "price": 685000.0,
+    "description": "HUAWEI WATCH GT 5",
+    "slug": {
+      "current": "huawei-watch-gt-5"
+    },
+    "imageUrl": "/placeholder.png"
+  },
+  {
+    "_id": "71d22be8-40e5-4d65-bd8f-7ff7b9be78fe",
+    "_type": "product",
+    "name": "idmix power crystal",
+    "price": 100000.0,
+    "description": "idmix power crystal",
+    "slug": {
+      "current": "idmix-power-crystal"
+    },
+    "imageUrl": "/placeholder.png"
+  },
+  {
+    "_id": "4d86a3c1-ea7e-4c2a-9012-2a913a9a3a5e",
+    "_type": "product",
+    "name": "IDMIX Rechargeble Battery Set",
+    "price": 85000.0,
+    "description": "IDMIX Rechargeble Battery Set",
+    "slug": {
+      "current": "idmix-rechargeble-battery-set"
+    },
+    "imageUrl": "/placeholder.png"
+  },
+  {
+    "_id": "1439276b-45a4-435c-95c3-d33ab4d303bc",
+    "_type": "product",
+    "name": "JBL Boombox 4",
+    "price": 1400000.0,
+    "description": "JBL Boombox 4",
+    "slug": {
+      "current": "jbl-boombox-4"
+    },
+    "imageUrl": "/placeholder.png"
+  },
+  {
+    "_id": "ff11cad0-f486-43fb-866e-fc5f23be253c",
+    "_type": "product",
+    "name": "JBL CAR MULTIMEDIA PLAYER",
+    "price": 770000.0,
+    "description": "JBL CAR MULTIMEDIA PLAYER",
+    "slug": {
+      "current": "jbl-car-multimedia-player"
+    },
+    "imageUrl": "/placeholder.png"
+  },
+  {
+    "_id": "d0cfc8e0-55a4-424c-93bd-ed84508e28ca",
+    "_type": "product",
+    "name": "JBL CHARGE 5",
+    "price": 400000.0,
+    "description": "JBL CHARGE 5",
+    "slug": {
+      "current": "jbl-charge-5"
+    },
+    "imageUrl": "/placeholder.png"
+  },
+  {
+    "_id": "66ddd8d3-f226-4874-976a-56d595a0435a",
+    "_type": "product",
+    "name": "JBL CHARGE 6",
+    "price": 505000.0,
+    "description": "JBL CHARGE 6",
+    "slug": {
+      "current": "jbl-charge-6"
+    },
+    "imageUrl": "/placeholder.png"
+  },
+  {
+    "_id": "af3349d8-c55e-409f-bcd4-7c2264513772",
+    "_type": "product",
+    "name": "JBL CLIP 4",
+    "price": 180000.0,
+    "description": "JBL CLIP 4",
+    "slug": {
+      "current": "jbl-clip-4"
+    },
+    "imageUrl": "/placeholder.png"
+  },
+  {
+    "_id": "70b7efad-78fe-4634-a0f8-d336893812b2",
+    "_type": "product",
+    "name": "JBL CLIP 5",
+    "price": 200000.0,
+    "description": "JBL CLIP 5",
+    "slug": {
+      "current": "jbl-clip-5"
+    },
+    "imageUrl": "/placeholder.png"
+  },
+  {
+    "_id": "c3bd28b3-0fd0-44f4-9610-d7c8c3ed9004",
+    "_type": "product",
+    "name": "JBL FLIP 6",
+    "price": 300000.0,
+    "description": "JBL FLIP 6",
+    "slug": {
+      "current": "jbl-flip-6"
+    },
+    "imageUrl": "/placeholder.png"
+  },
+  {
+    "_id": "026e3ea3-fa60-49ed-9b71-18b721ac6ee8",
+    "_type": "product",
+    "name": "JBL FLIP7",
+    "price": 400000.0,
+    "description": "JBL FLIP7",
+    "slug": {
+      "current": "jbl-flip7"
+    },
+    "imageUrl": "/placeholder.png"
+  },
+  {
+    "_id": "6d4a5806-a5e7-4a62-9dc2-db553bbe6f24",
+    "_type": "product",
+    "name": "JBL GO 4",
+    "price": 150000.0,
+    "description": "JBL GO 4",
+    "slug": {
+      "current": "jbl-go-4"
+    },
+    "imageUrl": "/placeholder.png"
+  },
+  {
+    "_id": "4be59ec4-ab68-4f2a-bbd9-bf8753b185f1",
+    "_type": "product",
+    "name": "JBL GRIP",
+    "price": 250000.0,
+    "description": "JBL GRIP",
+    "slug": {
+      "current": "jbl-grip"
+    },
+    "imageUrl": "/placeholder.png"
+  },
+  {
+    "_id": "981eb355-90ff-439a-9e61-e8d392f104be",
+    "_type": "product",
+    "name": "JBL LIVE FLEX",
+    "price": 420000.0,
+    "description": "JBL LIVE FLEX",
+    "slug": {
+      "current": "jbl-live-flex"
+    },
+    "imageUrl": "/placeholder.png"
+  },
+  {
+    "_id": "090b03ed-aae8-417d-ab68-e2425ac88820",
+    "_type": "product",
+    "name": "JBL PARTYBOX 520",
+    "price": 1950000.0,
+    "description": "JBL PARTYBOX 520",
+    "slug": {
+      "current": "jbl-partybox-520"
+    },
+    "imageUrl": "/placeholder.png"
+  },
+  {
+    "_id": "cb8b440f-0b35-45b2-b031-a17a215b474b",
+    "_type": "product",
+    "name": "JBL PARTYBOX ENCORE 2",
+    "price": 1200000.0,
+    "description": "JBL PARTYBOX ENCORE 2",
+    "slug": {
+      "current": "jbl-partybox-encore-2"
+    },
+    "imageUrl": "/placeholder.png"
+  },
+  {
+    "_id": "ed58d92e-f6f2-4022-88ef-5d0b6fff0430",
+    "_type": "product",
+    "name": "JBL Tour Pro 3 black",
+    "price": 675000.0,
+    "description": "JBL Tour Pro 3 black",
+    "slug": {
+      "current": "jbl-tour-pro-3-black"
+    },
+    "imageUrl": "/placeholder.png"
+  },
+  {
+    "_id": "3d8ed451-6e81-46ab-89b8-43916d5d4eaa",
+    "_type": "product",
+    "name": "JBL TUNE 305C USB-C",
+    "price": 80000.0,
+    "description": "JBL TUNE 305C USB-C",
+    "slug": {
+      "current": "jbl-tune-305c-usb-c"
+    },
+    "imageUrl": "/placeholder.png"
+  },
+  {
+    "_id": "44793e44-e327-4088-83fb-c319567a06e8",
+    "_type": "product",
+    "name": "JBL TUNE 310C USB-C",
+    "price": 80000.0,
+    "description": "JBL TUNE 310C USB-C",
+    "slug": {
+      "current": "jbl-tune-310c-usb-c"
+    },
+    "imageUrl": "/placeholder.png"
+  },
+  {
+    "_id": "1e44e930-8d07-4a3a-863b-3bb1f6b895b9",
+    "_type": "product",
+    "name": "JBL Tune 510",
+    "price": 140000.0,
+    "description": "JBL Tune 510",
+    "slug": {
+      "current": "jbl-tune-510"
+    },
+    "imageUrl": "/placeholder.png"
+  },
+  {
+    "_id": "aba97263-c564-4fc0-bcbf-0d916c06625a",
+    "_type": "product",
+    "name": "JBL TUNE 520",
+    "price": 150000.0,
+    "description": "JBL TUNE 520",
+    "slug": {
+      "current": "jbl-tune-520"
+    },
+    "imageUrl": "/placeholder.png"
+  },
+  {
+    "_id": "3b707823-cd70-4739-b7f8-ad01065c5b47",
+    "_type": "product",
+    "name": "JBL TUNE 710BT",
+    "price": 200000.0,
+    "description": "JBL TUNE 710BT",
+    "slug": {
+      "current": "jbl-tune-710bt"
+    },
+    "imageUrl": "/placeholder.png"
+  },
+  {
+    "_id": "c5e8dfab-1615-4268-9503-2eaa2e62616f",
+    "_type": "product",
+    "name": "JBL TUNE FLEX",
+    "price": 250000.0,
+    "description": "JBL TUNE FLEX",
+    "slug": {
+      "current": "jbl-tune-flex"
+    },
+    "imageUrl": "/placeholder.png"
+  },
+  {
+    "_id": "db3e7acd-5feb-424d-94a1-ac98af7dfb37",
+    "_type": "product",
+    "name": "JBL WAVE BEAM 2",
+    "price": 250000.0,
+    "description": "JBL WAVE BEAM 2",
+    "slug": {
+      "current": "jbl-wave-beam-2"
+    },
+    "imageUrl": "/placeholder.png"
+  },
+  {
+    "_id": "b0e805b3-3f65-4e4e-8ab6-55b8b9ec8e13",
+    "_type": "product",
+    "name": "JBL WAVE FLEX",
+    "price": 200000.0,
+    "description": "JBL WAVE FLEX",
+    "slug": {
+      "current": "jbl-wave-flex"
+    },
+    "imageUrl": "/placeholder.png"
+  },
+  {
+    "_id": "5948911b-d5bb-4e0d-b464-7a9f0efa7955",
+    "_type": "product",
+    "name": "JBL WAVE FLEX 2",
+    "price": 265000.0,
+    "description": "JBL WAVE FLEX 2",
+    "slug": {
+      "current": "jbl-wave-flex-2"
+    },
+    "imageUrl": "/placeholder.png"
+  },
+  {
+    "_id": "ffe0967f-3e9a-4383-8343-93097de41840",
+    "_type": "product",
+    "name": "JBL XTREME 3",
+    "price": 750000.0,
+    "description": "JBL XTREME 3",
+    "slug": {
+      "current": "jbl-xtreme-3"
+    },
+    "imageUrl": "/placeholder.png"
+  },
+  {
+    "_id": "78c1b662-9fc3-46d7-b564-9bb459edc030",
+    "_type": "product",
+    "name": "JBL XTREME 4",
+    "price": 850000.0,
+    "description": "JBL XTREME 4",
+    "slug": {
+      "current": "jbl-xtreme-4"
+    },
+    "imageUrl": "/placeholder.png"
+  },
+  {
+    "_id": "0b956b96-2d8d-4f9b-b20d-139ebf3f2b99",
+    "_type": "product",
+    "name": "LENYES PORTABLE HANDHELD TURBINE MINI FAN",
+    "price": 65000.0,
+    "description": "LENYES PORTABLE HANDHELD TURBINE MINI FAN",
+    "slug": {
+      "current": "lenyes-portable-handheld-turbine-mini-fan"
+    },
+    "imageUrl": "/placeholder.png"
+  },
+  {
+    "_id": "813ca33e-4229-4235-95f7-0c00fb2beaaa",
+    "_type": "product",
+    "name": "LENYES VACUUM SPORTS BOTTLE",
+    "price": 35000.0,
+    "description": "LENYES VACUUM SPORTS BOTTLE",
+    "slug": {
+      "current": "lenyes-vacuum-sports-bottle"
+    },
+    "imageUrl": "/placeholder.png"
+  },
+  {
+    "_id": "4fd03916-e525-4cb7-8a2f-5b98af9f29f3",
+    "_type": "product",
+    "name": "LENYES VANQUISH LAPTOP SLEEVE",
+    "price": 65000.0,
+    "description": "LENYES VANQUISH LAPTOP SLEEVE",
+    "slug": {
+      "current": "lenyes-vanquish-laptop-sleeve"
+    },
+    "imageUrl": "/placeholder.png"
+  },
+  {
+    "_id": "9c9beebe-dc5a-4314-9288-40a0614de57b",
+    "_type": "product",
+    "name": "MCDODO AUTO POWER OFF TYPE C TO C CABLE",
+    "price": 25000.0,
+    "description": "MCDODO AUTO POWER OFF TYPE C TO C CABLE",
+    "slug": {
+      "current": "mcdodo-auto-power-off-type-c-to-c-cable"
+    },
+    "imageUrl": "/placeholder.png"
+  },
+  {
+    "_id": "9f2e6a2b-7bad-412d-a791-648d6e843bc5",
+    "_type": "product",
+    "name": "MCDODO AUTO POWER OFF TYPE C TO LIGHTNING PD DATA CABLE",
+    "price": 25000.0,
+    "description": "MCDODO AUTO POWER OFF TYPE C TO LIGHTNING PD DATA CABLE",
+    "slug": {
+      "current": "mcdodo-auto-power-off-type-c-to-lightning-pd-data-cable"
+    },
+    "imageUrl": "/placeholder.png"
+  },
+  {
+    "_id": "778687b2-5642-4454-9864-689a39066b45",
+    "_type": "product",
+    "name": "MOBI AUTOMATED DESK LARGE",
+    "price": 950000.0,
+    "description": "MOBI AUTOMATED DESK LARGE",
+    "slug": {
+      "current": "mobi-automated-desk-large"
+    },
+    "imageUrl": "/placeholder.png"
+  },
+  {
+    "_id": "4550e7c0-584f-4284-afe8-efee8fa259b0",
+    "_type": "product",
+    "name": "Modish sleeve 13 inch",
+    "price": 65000.0,
+    "description": "Modish sleeve 13 inch",
+    "slug": {
+      "current": "modish-sleeve-13-inch"
+    },
+    "imageUrl": "/placeholder.png"
+  },
+  {
+    "_id": "5d413c1a-58ab-4627-89d7-098197017c6a",
+    "_type": "product",
+    "name": "modish sleeve 14inch",
+    "price": 65000.0,
+    "description": "modish sleeve 14inch",
+    "slug": {
+      "current": "modish-sleeve-14inch"
+    },
+    "imageUrl": "/placeholder.png"
+  },
+  {
+    "_id": "d568d34a-f0ed-4f51-aab8-d701b0219137",
+    "_type": "product",
+    "name": "MOMAX 1-WORLD 20W MULTIPLUG",
+    "price": 100000.0,
+    "description": "MOMAX 1-WORLD 20W MULTIPLUG",
+    "slug": {
+      "current": "momax-1-world-20w-multiplug"
+    },
+    "imageUrl": "/placeholder.png"
+  },
+  {
+    "_id": "8b6b8533-fce1-4d79-8d38-c1192215361d",
+    "_type": "product",
+    "name": "MOMAX 1-WORLD 35W MULTIPLUG",
+    "price": 135000.0,
+    "description": "MOMAX 1-WORLD 35W MULTIPLUG",
+    "slug": {
+      "current": "momax-1-world-35w-multiplug"
+    },
+    "imageUrl": "/placeholder.png"
+  },
+  {
+    "_id": "8a23fd44-3e96-40b8-8c97-7c2bb0ec49a1",
+    "_type": "product",
+    "name": "MOMAX AIRBOXGO POWERBANK",
+    "price": 350000.0,
+    "description": "MOMAX AIRBOXGO POWERBANK",
+    "slug": {
+      "current": "momax-airboxgo-powerbank"
+    },
+    "imageUrl": "/placeholder.png"
+  },
+  {
+    "_id": "45668067-d8af-4dc0-bc68-05e4e4cb57bc",
+    "_type": "product",
+    "name": "MOMAX ECO 360 REPLACEMENT AROMA OIL",
+    "price": 15000.0,
+    "description": "MOMAX ECO 360 REPLACEMENT AROMA OIL",
+    "slug": {
+      "current": "momax-eco-360-replacement-aroma-oil"
+    },
+    "imageUrl": "/placeholder.png"
+  },
+  {
+    "_id": "3a3cbebd-a394-450e-a55e-2ec933ec1313",
+    "_type": "product",
+    "name": "MOMAX ELITE LINK A TO L 1.2M CABLE BLACK",
+    "price": 35000.0,
+    "description": "MOMAX ELITE LINK A TO L 1.2M CABLE BLACK",
+    "slug": {
+      "current": "momax-elite-link-a-to-l-1.2m-cable-black"
+    },
+    "imageUrl": "/placeholder.png"
+  },
+  {
+    "_id": "330c566b-7d6d-40b1-a647-004ffafcca22",
+    "_type": "product",
+    "name": "MOMAX ELITE LINK A TO L 1.2M CABLE GREY",
+    "price": 35000.0,
+    "description": "MOMAX ELITE LINK A TO L 1.2M CABLE GREY",
+    "slug": {
+      "current": "momax-elite-link-a-to-l-1.2m-cable-grey"
+    },
+    "imageUrl": "/placeholder.png"
+  },
+  {
+    "_id": "02afc047-193a-4d93-a305-9a26d039f5f2",
+    "_type": "product",
+    "name": "MOMAX ELITE LINK L TO C 1.2M CABLE BLACK KEVLAR FIBER",
+    "price": 50000.0,
+    "description": "MOMAX ELITE LINK L TO C 1.2M CABLE BLACK KEVLAR FIBER",
+    "slug": {
+      "current": "momax-elite-link-l-to-c-1.2m-cable-black-kevlar-fiber"
+    },
+    "imageUrl": "/placeholder.png"
+  },
+  {
+    "_id": "c2b4bb4a-7a4c-4896-a873-8857b032d8dd",
+    "_type": "product",
+    "name": "MOMAX ELITE LINK L TO C 3.0M CABLE",
+    "price": 60000.0,
+    "description": "MOMAX ELITE LINK L TO C 3.0M CABLE",
+    "slug": {
+      "current": "momax-elite-link-l-to-c-3.0m-cable"
+    },
+    "imageUrl": "/placeholder.png"
+  },
+  {
+    "_id": "8e77f444-c659-4b5a-aab1-a44a6015a536",
+    "_type": "product",
+    "name": "MOMAX FOLD STAND MILA",
+    "price": 85000.0,
+    "description": "MOMAX FOLD STAND MILA",
+    "slug": {
+      "current": "momax-fold-stand-mila"
+    },
+    "imageUrl": "/placeholder.png"
+  },
+  {
+    "_id": "d7ebafd3-dbef-4de9-8fbd-26d0160354be",
+    "_type": "product",
+    "name": "MOMAX FOLD STAND ROTATABLE TABLET & LAPTOP STAND",
+    "price": 90000.0,
+    "description": "MOMAX FOLD STAND ROTATABLE TABLET & LAPTOP STAND",
+    "slug": {
+      "current": "momax-fold-stand-rotatable-tablet-&-laptop-stand"
+    },
+    "imageUrl": "/placeholder.png"
+  },
+  {
+    "_id": "489f5937-2fdd-4e7e-a8a0-1186e18aa0e5",
+    "_type": "product",
+    "name": "MOMAX FRESH RELAXAIRE PORTABLE AROMA DIFFUSER",
+    "price": 90000.0,
+    "description": "MOMAX FRESH RELAXAIRE PORTABLE AROMA DIFFUSER",
+    "slug": {
+      "current": "momax-fresh-relaxaire-portable-aroma-diffuser"
+    },
+    "imageUrl": "/placeholder.png"
+  },
+  {
+    "_id": "399e9b46-c159-45aa-b8de-62275e407a7d",
+    "_type": "product",
+    "name": "MOMAX MULTI-STAND FULL MOTION DESK MOUNT FOR TABLET",
+    "price": 70000.0,
+    "description": "MOMAX MULTI-STAND FULL MOTION DESK MOUNT FOR TABLET",
+    "slug": {
+      "current": "momax-multi-stand-full-motion-desk-mount-for-tablet"
+    },
+    "imageUrl": "/placeholder.png"
+  },
+  {
+    "_id": "9af48323-ae02-4b6b-b7ee-283a7b4a9e2a",
+    "_type": "product",
+    "name": "MOMAX ONEPLUG 11-OUTLET POWERSTRIP WITH USB",
+    "price": 150000.0,
+    "description": "MOMAX ONEPLUG 11-OUTLET POWERSTRIP WITH USB",
+    "slug": {
+      "current": "momax-oneplug-11-outlet-powerstrip-with-usb"
+    },
+    "imageUrl": "/placeholder.png"
+  },
+  {
+    "_id": "86661023-b3c7-4d9a-b7f7-36c0ef520739",
+    "_type": "product",
+    "name": "MOMAX ONEPLUG 3-OUTLET CUBE EXTENTION SOCKET WITH USB",
+    "price": 75000.0,
+    "description": "MOMAX ONEPLUG 3-OUTLET CUBE EXTENTION SOCKET WITH USB",
+    "slug": {
+      "current": "momax-oneplug-3-outlet-cube-extention-socket-with-usb"
+    },
+    "imageUrl": "/placeholder.png"
+  },
+  {
+    "_id": "3e5253b4-9a1c-4c7c-b4f5-0e30c859afc0",
+    "_type": "product",
+    "name": "MOMAX ONEPLUG 3-OUTLET T-SHARPED EXTENSION",
+    "price": 80000.0,
+    "description": "MOMAX ONEPLUG 3-OUTLET T-SHARPED EXTENSION",
+    "slug": {
+      "current": "momax-oneplug-3-outlet-t-sharped-extension"
+    },
+    "imageUrl": "/placeholder.png"
+  },
+  {
+    "_id": "76cb4256-046a-4214-8332-2179ca11a87d",
+    "_type": "product",
+    "name": "MOMAX ONEPLUG 8-OUTLET POWERSTRIP WITH USB",
+    "price": 100000.0,
+    "description": "MOMAX ONEPLUG 8-OUTLET POWERSTRIP WITH USB",
+    "slug": {
+      "current": "momax-oneplug-8-outlet-powerstrip-with-usb"
+    },
+    "imageUrl": "/placeholder.png"
+  },
+  {
+    "_id": "8c94cb44-13a7-4e97-a3e0-e0414cb485a9",
+    "_type": "product",
+    "name": "MOMAX Q.MAG X MAGNETIC WIRELESS BATTERY PACK 5K MAH",
+    "price": 90000.0,
+    "description": "MOMAX Q.MAG X MAGNETIC WIRELESS BATTERY PACK 5K MAH",
+    "slug": {
+      "current": "momax-q.mag-x-magnetic-wireless-battery-pack-5k-mah"
+    },
+    "imageUrl": "/placeholder.png"
+  },
+  {
+    "_id": "82a7d508-de9f-4cdf-a1a4-bbb2a85c480b",
+    "_type": "product",
+    "name": "MOMAX Q.MOUSE PAD DUAL WIRELESS CHARGING",
+    "price": 100000.0,
+    "description": "MOMAX Q.MOUSE PAD DUAL WIRELESS CHARGING",
+    "slug": {
+      "current": "momax-q.mouse-pad-dual-wireless-charging"
+    },
+    "imageUrl": "/placeholder.png"
+  },
+  {
+    "_id": "961d8861-2e44-40bd-93f8-6e6c43e98a93",
+    "_type": "product",
+    "name": "MOMAX RELAXAIRE REPLACEMENT ESSENTIAL OIL",
+    "price": 15000.0,
+    "description": "MOMAX RELAXAIRE REPLACEMENT ESSENTIAL OIL",
+    "slug": {
+      "current": "momax-relaxaire-replacement-essential-oil"
+    },
+    "imageUrl": "/placeholder.png"
+  },
+  {
+    "_id": "4294d147-4ea9-47c6-b19b-90675f887487",
+    "_type": "product",
+    "name": "MOMAX SMART HOP",
+    "price": 85000.0,
+    "description": "MOMAX SMART HOP",
+    "slug": {
+      "current": "momax-smart-hop"
+    },
+    "imageUrl": "/placeholder.png"
+  },
+  {
+    "_id": "b046d3a0-11aa-4ceb-bf9e-1d53d46b1d8f",
+    "_type": "product",
+    "name": "MOPHIE POWERSTATION 10000mAh",
+    "price": 100000.0,
+    "description": "MOPHIE POWERSTATION 10000mAh",
+    "slug": {
+      "current": "mophie-powerstation-10000mah"
+    },
+    "imageUrl": "/placeholder.png"
+  },
+  {
+    "_id": "ba527be6-5b39-4be3-8ef9-b3b54bb795fe",
+    "_type": "product",
+    "name": "Mophie USB4-USB C TO C Cable",
+    "price": 55000.0,
+    "description": "Mophie USB4-USB C TO C Cable",
+    "slug": {
+      "current": "mophie-usb4-usb-c-to-c-cable"
+    },
+    "imageUrl": "/placeholder.png"
+  },
+  {
+    "_id": "ef2103b2-19b6-47ef-bd72-9904d4647dc4",
+    "_type": "product",
+    "name": "MOXOM 35W GAN CHARGER",
+    "price": 50000.0,
+    "description": "MOXOM 35W GAN CHARGER",
+    "slug": {
+      "current": "moxom-35w-gan-charger"
+    },
+    "imageUrl": "/placeholder.png"
+  },
+  {
+    "_id": "4ade2fb5-c81e-4dd4-8c80-336dd997b6aa",
+    "_type": "product",
+    "name": "MOXOM 60W MUSHROOM CAR CHARGER",
+    "price": 45000.0,
+    "description": "MOXOM 60W MUSHROOM CAR CHARGER",
+    "slug": {
+      "current": "moxom-60w-mushroom-car-charger"
+    },
+    "imageUrl": "/placeholder.png"
+  },
+  {
+    "_id": "e43af6ea-4e8f-496a-b7d2-2615888ac322",
+    "_type": "product",
+    "name": "Moxom A + C charger",
+    "price": 35000.0,
+    "description": "Moxom A + C charger",
+    "slug": {
+      "current": "moxom-a-+-c-charger"
+    },
+    "imageUrl": "/placeholder.png"
+  },
+  {
+    "_id": "50c24426-57ea-48df-8df3-c0955164f501",
+    "_type": "product",
+    "name": "MOXOM AIRSHIP KARAOKE SPEAKER",
+    "price": 450000.0,
+    "description": "MOXOM AIRSHIP KARAOKE SPEAKER",
+    "slug": {
+      "current": "moxom-airship-karaoke-speaker"
+    },
+    "imageUrl": "/placeholder.png"
+  },
+  {
+    "_id": "e1bef547-06df-40f4-8124-80a0acc53f5c",
+    "_type": "product",
+    "name": "MOXOM CAR CHARGER MX-VC27",
+    "price": 35000.0,
+    "description": "MOXOM CAR CHARGER MX-VC27",
+    "slug": {
+      "current": "moxom-car-charger-mx-vc27"
+    },
+    "imageUrl": "/placeholder.png"
+  },
+  {
+    "_id": "a546d15c-e98d-445c-bb0f-06e0e440064c",
+    "_type": "product",
+    "name": "MOXOM PD 20W FAST CHARGER",
+    "price": 35000.0,
+    "description": "MOXOM PD 20W FAST CHARGER",
+    "slug": {
+      "current": "moxom-pd-20w-fast-charger"
+    },
+    "imageUrl": "/placeholder.png"
+  },
+  {
+    "_id": "8e8b6805-fb91-4875-a1a0-50a2aca6d2fd",
+    "_type": "product",
+    "name": "MOXOM QC18W PD20 ADAPTER",
+    "price": 35000.0,
+    "description": "MOXOM QC18W PD20 ADAPTER",
+    "slug": {
+      "current": "moxom-qc18w-pd20-adapter"
+    },
+    "imageUrl": "/placeholder.png"
+  },
+  {
+    "_id": "e55cc691-d9d0-4e28-96ef-bf2e9adc101a",
+    "_type": "product",
+    "name": "MOXOM Thunder portable wireless speaker",
+    "price": 65000.0,
+    "description": "MOXOM Thunder portable wireless speaker",
+    "slug": {
+      "current": "moxom-thunder-portable-wireless-speaker"
+    },
+    "imageUrl": "/placeholder.png"
+  },
+  {
+    "_id": "cb289740-f375-446e-9e81-993e82de7797",
+    "_type": "product",
+    "name": "PANASONIC BATTERY CR1632",
+    "price": 100000.0,
+    "description": "PANASONIC BATTERY CR1632",
+    "slug": {
+      "current": "panasonic-battery-cr1632"
+    },
+    "imageUrl": "/placeholder.png"
+  },
+  {
+    "_id": "5b7d28e1-7eea-4917-9387-607bc4533224",
+    "_type": "product",
+    "name": "PANASONIC BATTERY CR2016",
+    "price": 100000.0,
+    "description": "PANASONIC BATTERY CR2016",
+    "slug": {
+      "current": "panasonic-battery-cr2016"
+    },
+    "imageUrl": "/placeholder.png"
+  },
+  {
+    "_id": "3618ffe0-8554-48a6-b045-26b281bd1e3a",
+    "_type": "product",
+    "name": "PANASONIC BATTERY CR2025",
+    "price": 100000.0,
+    "description": "PANASONIC BATTERY CR2025",
+    "slug": {
+      "current": "panasonic-battery-cr2025"
+    },
+    "imageUrl": "/placeholder.png"
+  },
+  {
+    "_id": "61d999eb-0dd6-48b5-a2cf-ecdad536023f",
+    "_type": "product",
+    "name": "PANASONIC BATTERY CR2032",
+    "price": 100000.0,
+    "description": "PANASONIC BATTERY CR2032",
+    "slug": {
+      "current": "panasonic-battery-cr2032"
+    },
+    "imageUrl": "/placeholder.png"
+  },
+  {
+    "_id": "c8c7b36c-55d9-4af1-b0d4-e92dcec1fd14",
+    "_type": "product",
+    "name": "PANASONIC STEAM IRON",
+    "price": 96000.0,
+    "description": "PANASONIC STEAM IRON",
+    "slug": {
+      "current": "panasonic-steam-iron"
+    },
+    "imageUrl": "/placeholder.png"
+  },
+  {
+    "_id": "3b84bacf-1927-485e-a3b0-2365a72e68ba",
+    "_type": "product",
+    "name": "Passport Wallet",
+    "price": 65000.0,
+    "description": "Passport Wallet",
+    "slug": {
+      "current": "passport-wallet"
+    },
+    "imageUrl": "/placeholder.png"
+  },
+  {
+    "_id": "9ccdc840-56ef-4096-abb1-ea561d3fe470",
+    "_type": "product",
+    "name": "Peakzooc for 16 Pro Max",
+    "price": 50000.0,
+    "description": "Peakzooc for 16 Pro Max",
+    "slug": {
+      "current": "peakzooc-for-16-pro-max"
+    },
+    "imageUrl": "/placeholder.png"
+  },
+  {
+    "_id": "95cd7e12-453a-464d-ac2b-c39fd93e184e",
+    "_type": "product",
+    "name": "PHILIPS 9000 SERIES ANDROID RADIO",
+    "price": 295000.0,
+    "description": "PHILIPS 9000 SERIES ANDROID RADIO",
+    "slug": {
+      "current": "philips-9000-series-android-radio"
+    },
+    "imageUrl": "/placeholder.png"
+  },
+  {
+    "_id": "7d6870d0-2f1a-4411-b277-8f9f89a601f6",
+    "_type": "product",
+    "name": "PHILIPS CAR CHARGER 72W",
+    "price": 75000.0,
+    "description": "PHILIPS CAR CHARGER 72W",
+    "slug": {
+      "current": "philips-car-charger-72w"
+    },
+    "imageUrl": "/placeholder.png"
+  },
+  {
+    "_id": "2dc79e52-feca-4c79-9a00-72d56f0fe738",
+    "_type": "product",
+    "name": "PHILIPS MAGSAFE POWERBANKS 5000MAH 3C",
+    "price": 100000.0,
+    "description": "PHILIPS MAGSAFE POWERBANKS 5000MAH 3C",
+    "slug": {
+      "current": "philips-magsafe-powerbanks-5000mah-3c"
+    },
+    "imageUrl": "/placeholder.png"
+  },
+  {
+    "_id": "3f30fc5b-428a-42ab-8c79-e28d825fb5a2",
+    "_type": "product",
+    "name": "PHILIPS NEOPIX EASY HOME PROJECTOR",
+    "price": 500000.0,
+    "description": "PHILIPS NEOPIX EASY HOME PROJECTOR",
+    "slug": {
+      "current": "philips-neopix-easy-home-projector"
+    },
+    "imageUrl": "/placeholder.png"
+  },
+  {
+    "_id": "4c37564a-4a92-49c8-97b1-866694a5a23a",
+    "_type": "product",
+    "name": "PHILIPS PERFOMANCE ALARM CLOCK",
+    "price": 150000.0,
+    "description": "PHILIPS PERFOMANCE ALARM CLOCK",
+    "slug": {
+      "current": "philips-perfomance-alarm-clock"
+    },
+    "imageUrl": "/placeholder.png"
+  },
+  {
+    "_id": "050a674b-466c-41d1-a771-33869c158b73",
+    "_type": "product",
+    "name": "PIONEER TS-BW201LA CAR SUBWOOFER",
+    "price": 600000.0,
+    "description": "PIONEER TS-BW201LA CAR SUBWOOFER",
+    "slug": {
+      "current": "pioneer-ts-bw201la-car-subwoofer"
+    },
+    "imageUrl": "/placeholder.png"
+  },
+  {
+    "_id": "946b52e2-b178-4864-b3ee-36e6bdf7cc41",
+    "_type": "product",
+    "name": "PLAYSTATION DUALSENSE WIRELESS CONTROLLER BLACK",
+    "price": 250000.0,
+    "description": "PLAYSTATION DUALSENSE WIRELESS CONTROLLER BLACK",
+    "slug": {
+      "current": "playstation-dualsense-wireless-controller-black"
+    },
+    "imageUrl": "/placeholder.png"
+  },
+  {
+    "_id": "a32f9c9a-acfd-47ea-afe9-5a6fd4e01117",
+    "_type": "product",
+    "name": "PLAYSTATION DUALSENSE WIRELESS CONTROLLER CAMO",
+    "price": 250000.0,
+    "description": "PLAYSTATION DUALSENSE WIRELESS CONTROLLER CAMO",
+    "slug": {
+      "current": "playstation-dualsense-wireless-controller-camo"
+    },
+    "imageUrl": "/placeholder.png"
+  },
+  {
+    "_id": "9d51590c-c11f-4127-afea-4e23c140f29d",
+    "_type": "product",
+    "name": "Porodo 3 Axis Gimble",
+    "price": 200000.0,
+    "description": "Porodo 3 Axis Gimble",
+    "slug": {
+      "current": "porodo-3-axis-gimble"
+    },
+    "imageUrl": "/placeholder.png"
+  },
+  {
+    "_id": "a6462e2e-c0eb-48ad-812e-73c0bb39ff5f",
+    "_type": "product",
+    "name": "Porodo Microphone Lavalier",
+    "price": 150000.0,
+    "description": "Porodo Microphone Lavalier",
+    "slug": {
+      "current": "porodo-microphone-lavalier"
+    },
+    "imageUrl": "/placeholder.png"
+  },
+  {
+    "_id": "6f3bc95f-c076-4ad5-950a-1c8efb09a62d",
+    "_type": "product",
+    "name": "PORODO VERTICAL WIRELESS MOUSE",
+    "price": 50000.0,
+    "description": "PORODO VERTICAL WIRELESS MOUSE",
+    "slug": {
+      "current": "porodo-vertical-wireless-mouse"
+    },
+    "imageUrl": "/placeholder.png"
+  },
+  {
+    "_id": "5c64e471-64a1-4f28-9130-ee20aae1cc06",
+    "_type": "product",
+    "name": "SAMSUNG 25W POWER ADAPTER WITH CABLE (CC)",
+    "price": 35000.0,
+    "description": "SAMSUNG 25W POWER ADAPTER WITH CABLE (CC)",
+    "slug": {
+      "current": "samsung-25w-power-adapter-with-cable-(cc)"
+    },
+    "imageUrl": "/placeholder.png"
+  },
+  {
+    "_id": "4c57c439-5816-42b6-9501-affcfcefba30",
+    "_type": "product",
+    "name": "Samsung 32\u201d 4K Smart Monitor",
+    "price": 1650000.0,
+    "description": "Samsung 32\u201d 4K Smart Monitor",
+    "slug": {
+      "current": "samsung-32\u201d-4k-smart-monitor"
+    },
+    "imageUrl": "/placeholder.png"
+  },
+  {
+    "_id": "c74e7b41-908d-4327-9be2-95d71744595f",
+    "_type": "product",
+    "name": "SAMSUNG 45W PD CHARGER",
+    "price": 125000.0,
+    "description": "SAMSUNG 45W PD CHARGER",
+    "slug": {
+      "current": "samsung-45w-pd-charger"
+    },
+    "imageUrl": "/placeholder.png"
+  },
+  {
+    "_id": "0131034e-9eea-41dd-ae16-28129adeeb79",
+    "_type": "product",
+    "name": "SAMSUNG GALAXY A05 4GB 64GB",
+    "price": 250000.0,
+    "description": "SAMSUNG GALAXY A05 4GB 64GB",
+    "slug": {
+      "current": "samsung-galaxy-a05-4gb-64gb"
+    },
+    "imageUrl": "/placeholder.png"
+  },
+  {
+    "_id": "03866814-1b63-4af6-800d-9e3bcb22ac9f",
+    "_type": "product",
+    "name": "SAMSUNG GALAXY A06 4GB 64GB",
+    "price": 300000.0,
+    "description": "SAMSUNG GALAXY A06 4GB 64GB",
+    "slug": {
+      "current": "samsung-galaxy-a06-4gb-64gb"
+    },
+    "imageUrl": "/placeholder.png"
+  },
+  {
+    "_id": "a48c40c0-aea6-4459-91ff-706326978f97",
+    "_type": "product",
+    "name": "SAMSUNG GALAXY A16 4GB 128GB",
+    "price": 400000.0,
+    "description": "SAMSUNG GALAXY A16 4GB 128GB",
+    "slug": {
+      "current": "samsung-galaxy-a16-4gb-128gb"
+    },
+    "imageUrl": "/placeholder.png"
+  },
+  {
+    "_id": "19667108-4f6a-44cc-82aa-b51797c36e43",
+    "_type": "product",
+    "name": "SAMSUNG GALAXY BUDS 3",
+    "price": 400000.0,
+    "description": "SAMSUNG GALAXY BUDS 3",
+    "slug": {
+      "current": "samsung-galaxy-buds-3"
+    },
+    "imageUrl": "/placeholder.png"
+  },
+  {
+    "_id": "2faf627f-9c89-4b92-8743-8870df894ec1",
+    "_type": "product",
+    "name": "SAMSUNG GALAXY BUDS2 PRO",
+    "price": 300000.0,
+    "description": "SAMSUNG GALAXY BUDS2 PRO",
+    "slug": {
+      "current": "samsung-galaxy-buds2-pro"
+    },
+    "imageUrl": "/placeholder.png"
+  },
+  {
+    "_id": "e37f505f-9016-49eb-9d05-ea827e2085ac",
+    "_type": "product",
+    "name": "SAMSUNG MICRO CHARGER CC",
+    "price": 25000.0,
+    "description": "SAMSUNG MICRO CHARGER CC",
+    "slug": {
+      "current": "samsung-micro-charger-cc"
+    },
+    "imageUrl": "/placeholder.png"
+  },
+  {
+    "_id": "191121fd-f521-4978-9807-b57ca234bc8b",
+    "_type": "product",
+    "name": "SAMSUNG PD 15W POWER ADAPTER",
+    "price": 35000.0,
+    "description": "SAMSUNG PD 15W POWER ADAPTER",
+    "slug": {
+      "current": "samsung-pd-15w-power-adapter"
+    },
+    "imageUrl": "/placeholder.png"
+  },
+  {
+    "_id": "1d73d10c-85c3-4f31-b354-99205a19e419",
+    "_type": "product",
+    "name": "SAMSUNG PD 15W POWER ADAPTER WITH CABLE",
+    "price": 50000.0,
+    "description": "SAMSUNG PD 15W POWER ADAPTER WITH CABLE",
+    "slug": {
+      "current": "samsung-pd-15w-power-adapter-with-cable"
+    },
+    "imageUrl": "/placeholder.png"
+  },
+  {
+    "_id": "af9254b1-0fd4-4e03-8ee8-1181dd6f3f24",
+    "_type": "product",
+    "name": "SAMSUNG PD 35W POWER ADAPTER DUO",
+    "price": 100000.0,
+    "description": "SAMSUNG PD 35W POWER ADAPTER DUO",
+    "slug": {
+      "current": "samsung-pd-35w-power-adapter-duo"
+    },
+    "imageUrl": "/placeholder.png"
+  },
+  {
+    "_id": "bb45a22e-2f22-43cf-86b3-872078b777fb",
+    "_type": "product",
+    "name": "Samsung PD 50W duo with cable",
+    "price": 150000.0,
+    "description": "Samsung PD 50W duo with cable",
+    "slug": {
+      "current": "samsung-pd-50w-duo-with-cable"
+    },
+    "imageUrl": "/placeholder.png"
+  },
+  {
+    "_id": "ead4aef3-a710-4f77-99a8-a97a19801206",
+    "_type": "product",
+    "name": "SAMSUNG PD 65W POWER ADAPTER TRIO EU",
+    "price": 150000.0,
+    "description": "SAMSUNG PD 65W POWER ADAPTER TRIO EU",
+    "slug": {
+      "current": "samsung-pd-65w-power-adapter-trio-eu"
+    },
+    "imageUrl": "/placeholder.png"
+  },
+  {
+    "_id": "826370a5-bc5d-4e87-a088-6ff21b230adf",
+    "_type": "product",
+    "name": "Samsung Tab A9 plus 128GB",
+    "price": 800000.0,
+    "description": "Samsung Tab A9 plus 128GB",
+    "slug": {
+      "current": "samsung-tab-a9-plus-128gb"
+    },
+    "imageUrl": "/placeholder.png"
+  },
+  {
+    "_id": "ad300443-40d1-4a5a-9679-174b3e8669bf",
+    "_type": "product",
+    "name": "SAMSUNG USB-A TO USB-C 1.5M 2PACK",
+    "price": 25000.0,
+    "description": "SAMSUNG USB-A TO USB-C 1.5M 2PACK",
+    "slug": {
+      "current": "samsung-usb-a-to-usb-c-1.5m-2pack"
+    },
+    "imageUrl": "/placeholder.png"
+  },
+  {
+    "_id": "475ca12d-224d-4024-83c8-7fb9c0befa8f",
+    "_type": "product",
+    "name": "SAMSUNG USB-C TO USB-C 1M BLACK",
+    "price": 40000.0,
+    "description": "SAMSUNG USB-C TO USB-C 1M BLACK",
+    "slug": {
+      "current": "samsung-usb-c-to-usb-c-1m-black"
+    },
+    "imageUrl": "/placeholder.png"
+  },
+  {
+    "_id": "8fbffb77-2576-4c52-8b07-f86530556b11",
+    "_type": "product",
+    "name": "SAMSUNG WIRELESS CAR CHARGER",
+    "price": 185000.0,
+    "description": "SAMSUNG WIRELESS CAR CHARGER",
+    "slug": {
+      "current": "samsung-wireless-car-charger"
+    },
+    "imageUrl": "/placeholder.png"
+  },
+  {
+    "_id": "8a4bd7b9-1192-4409-b059-0c980c2d8104",
+    "_type": "product",
+    "name": "SANDISK EXTEREME PRO PORTABLE 1TB",
+    "price": 500000.0,
+    "description": "SANDISK EXTEREME PRO PORTABLE 1TB",
+    "slug": {
+      "current": "sandisk-extereme-pro-portable-1tb"
+    },
+    "imageUrl": "/placeholder.png"
+  },
+  {
+    "_id": "b92219c3-e2b0-4861-a613-f335ad0c5a65",
+    "_type": "product",
+    "name": "Sandisk Extreme 2TB",
+    "price": 600000.0,
+    "description": "Sandisk Extreme 2TB",
+    "slug": {
+      "current": "sandisk-extreme-2tb"
+    },
+    "imageUrl": "/placeholder.png"
+  },
+  {
+    "_id": "0914b5d3-50a9-43ef-b8fc-5e8f0ed02669",
+    "_type": "product",
+    "name": "SandiskCruzer Blade 64GB",
+    "price": 30000.0,
+    "description": "SandiskCruzer Blade 64GB",
+    "slug": {
+      "current": "sandiskcruzer-blade-64gb"
+    },
+    "imageUrl": "/placeholder.png"
+  },
+  {
+    "_id": "963ad53c-ccaa-4e81-a260-f495cc4188ee",
+    "_type": "product",
+    "name": "SONY ULT POWER SOUND HEADPHONES",
+    "price": 600000.0,
+    "description": "SONY ULT POWER SOUND HEADPHONES",
+    "slug": {
+      "current": "sony-ult-power-sound-headphones"
+    },
+    "imageUrl": "/placeholder.png"
+  },
+  {
+    "_id": "06de4f86-4831-4485-b9f7-52eacf9b5233",
+    "_type": "product",
+    "name": "SONY WH-CH720 HEADPHONES",
+    "price": 300000.0,
+    "description": "SONY WH-CH720 HEADPHONES",
+    "slug": {
+      "current": "sony-wh-ch720-headphones"
+    },
+    "imageUrl": "/placeholder.png"
+  },
+  {
+    "_id": "78682e55-1234-42cf-8614-cf70dece8c74",
+    "_type": "product",
+    "name": "SONY XE300 SPEAKER",
+    "price": 605000.0,
+    "description": "SONY XE300 SPEAKER",
+    "slug": {
+      "current": "sony-xe300-speaker"
+    },
+    "imageUrl": "/placeholder.png"
+  },
+  {
+    "_id": "c3618021-d93e-4294-b9a0-c002f5771dba",
+    "_type": "product",
+    "name": "SOUNDCORE P25I WIRELESS EARPHONES",
+    "price": 100000.0,
+    "description": "SOUNDCORE P25I WIRELESS EARPHONES",
+    "slug": {
+      "current": "soundcore-p25i-wireless-earphones"
+    },
+    "imageUrl": "/placeholder.png"
+  },
+  {
+    "_id": "1ffebeca-e106-4261-aca4-f043169e3664",
+    "_type": "product",
+    "name": "SOUNDCORE SPACE ONE PRO HEADPHONES",
+    "price": 375000.0,
+    "description": "SOUNDCORE SPACE ONE PRO HEADPHONES",
+    "slug": {
+      "current": "soundcore-space-one-pro-headphones"
+    },
+    "imageUrl": "/placeholder.png"
+  },
+  {
+    "_id": "b07528e9-b20f-4a32-abe4-57016fe4a615",
+    "_type": "product",
+    "name": "Stanley Mug",
+    "price": 85000.0,
+    "description": "Stanley Mug",
+    "slug": {
+      "current": "stanley-mug"
+    },
+    "imageUrl": "/placeholder.png"
+  },
+  {
+    "_id": "8c56bf35-a744-4f3e-9fae-e810fde1c85b",
+    "_type": "product",
+    "name": "TRANCEND STOREJET HDD 1TB",
+    "price": 215000.0,
+    "description": "TRANCEND STOREJET HDD 1TB",
+    "slug": {
+      "current": "trancend-storejet-hdd-1tb"
+    },
+    "imageUrl": "/placeholder.png"
+  },
+  {
+    "_id": "3be81c55-d621-479b-a1b0-11a99b13f128",
+    "_type": "product",
+    "name": "TRANCEND STOREJET HDD 2TB",
+    "price": 270000.0,
+    "description": "TRANCEND STOREJET HDD 2TB",
+    "slug": {
+      "current": "trancend-storejet-hdd-2tb"
+    },
+    "imageUrl": "/placeholder.png"
+  },
+  {
+    "_id": "9a97eb0a-ed2e-44b7-89de-6de904e49b2f",
+    "_type": "product",
+    "name": "UGREEN 130W CAR CHARGER",
+    "price": 65000.0,
+    "description": "UGREEN 130W CAR CHARGER",
+    "slug": {
+      "current": "ugreen-130w-car-charger"
+    },
+    "imageUrl": "/placeholder.png"
+  },
+  {
+    "_id": "f56ad4b1-49f7-4e42-ae6c-77410342a29e",
+    "_type": "product",
+    "name": "UGREEN Aux to Aux AUDIO CABLE 1M",
+    "price": 20000.0,
+    "description": "UGREEN Aux to Aux AUDIO CABLE 1M",
+    "slug": {
+      "current": "ugreen-aux-to-aux-audio-cable-1m"
+    },
+    "imageUrl": "/placeholder.png"
+  },
+  {
+    "_id": "dfca5494-8e88-4efb-866d-a1ebebbb9af2",
+    "_type": "product",
+    "name": "UGREEN FOLDABLE LAPTOP STAND",
+    "price": 35000.0,
+    "description": "UGREEN FOLDABLE LAPTOP STAND",
+    "slug": {
+      "current": "ugreen-foldable-laptop-stand"
+    },
+    "imageUrl": "/placeholder.png"
+  },
+  {
+    "_id": "015154a6-618d-4b5b-9d22-2dd59d583769",
+    "_type": "product",
+    "name": "UGREEN HDMI SWITCHER WITH CABLE",
+    "price": 50000.0,
+    "description": "UGREEN HDMI SWITCHER WITH CABLE",
+    "slug": {
+      "current": "ugreen-hdmi-switcher-with-cable"
+    },
+    "imageUrl": "/placeholder.png"
+  },
+  {
+    "_id": "cb3f5127-3057-4dd2-bd61-aa183789bbcf",
+    "_type": "product",
+    "name": "Ugreen HDMI to HDMI cable 3m",
+    "price": 50000.0,
+    "description": "Ugreen HDMI to HDMI cable 3m",
+    "slug": {
+      "current": "ugreen-hdmi-to-hdmi-cable-3m"
+    },
+    "imageUrl": "/placeholder.png"
+  },
+  {
+    "_id": "0e543b06-1a4b-446c-a4a1-0e07a256e66a",
+    "_type": "product",
+    "name": "Ugreen HDMI two way switch",
+    "price": 65000.0,
+    "description": "Ugreen HDMI two way switch",
+    "slug": {
+      "current": "ugreen-hdmi-two-way-switch"
+    },
+    "imageUrl": "/placeholder.png"
+  },
+  {
+    "_id": "e972f152-8db3-4eea-a53c-776b1bbcbe11",
+    "_type": "product",
+    "name": "Ugreen USB C Fast Charger",
+    "price": 70000.0,
+    "description": "Ugreen USB C Fast Charger",
+    "slug": {
+      "current": "ugreen-usb-c-fast-charger"
+    },
+    "imageUrl": "/placeholder.png"
+  },
+  {
+    "_id": "071902c6-a1af-46fe-bc9b-c3f50401ce8e",
+    "_type": "product",
+    "name": "UGREEN VENT MAGNETIC BRACKET",
+    "price": 35000.0,
+    "description": "UGREEN VENT MAGNETIC BRACKET",
+    "slug": {
+      "current": "ugreen-vent-magnetic-bracket"
+    },
+    "imageUrl": "/placeholder.png"
+  },
+  {
+    "_id": "7fb1501a-4e90-4574-97fb-2061c731af05",
+    "_type": "product",
+    "name": "Ugreen verticle laptop storage stand",
+    "price": 35000.0,
+    "description": "Ugreen verticle laptop storage stand",
+    "slug": {
+      "current": "ugreen-verticle-laptop-storage-stand"
+    },
+    "imageUrl": "/placeholder.png"
+  },
+  {
+    "_id": "8768a95a-b4d7-45ef-9f16-988d8207411a",
+    "_type": "product",
+    "name": "URR SILICONE EDGE PRIVACY GLASS FOR IPHONE 14-13-13 PRO",
+    "price": 30000.0,
+    "description": "URR SILICONE EDGE PRIVACY GLASS FOR IPHONE 14/13/13 PRO",
+    "slug": {
+      "current": "urr-silicone-edge-privacy-glass-for-iphone-14-13-13-pro"
+    },
+    "imageUrl": "/placeholder.png"
+  },
+  {
+    "_id": "375fc457-6462-4f29-ab3d-ccbdc142a053",
+    "_type": "product",
+    "name": "Xiaomi 5G CPE ROUTER",
+    "price": 750000.0,
+    "description": "Xiaomi 5G CPE ROUTER",
+    "slug": {
+      "current": "xiaomi-5g-cpe-router"
+    },
+    "imageUrl": "/placeholder.png"
+  },
+  {
+    "_id": "c31246bf-e663-4fce-a518-c163fba36955",
+    "_type": "product",
+    "name": "Xiaomi Lint remover",
+    "price": 50000.0,
+    "description": "Xiaomi Lint remover",
+    "slug": {
+      "current": "xiaomi-lint-remover"
+    },
+    "imageUrl": "/placeholder.png"
+  },
+  {
+    "_id": "fa0e7172-d30c-45d9-95eb-a38bb1142cfd",
+    "_type": "product",
+    "name": "ZTE U30 AIR",
+    "price": 350000.0,
+    "description": "ZTE U30 AIR",
+    "slug": {
+      "current": "zte-u30-air"
+    },
+    "imageUrl": "/placeholder.png"
+  }
+]
