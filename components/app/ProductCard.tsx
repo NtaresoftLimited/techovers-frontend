@@ -19,8 +19,8 @@ interface Product {
   slug: string | null;
   imageUrl?: string;
   images?: any[] | null;
-  category?: { title: string };
-  brand?: { name: string; logo: string };
+  category?: { title: string | null } | null;
+  brand?: { name: string | null; logo: string | null } | null;
   stock?: number;
   isExpress?: boolean;
   isBestseller?: boolean;
@@ -102,12 +102,12 @@ export function ProductCard({ product }: ProductCardProps) {
       <CardContent className="flex grow flex-col justify-between gap-6 p-8 bg-white">
         <div className="space-y-3">
           <div className="flex items-center justify-between">
-            {product.brand && (
+            {product.brand?.name && (
               <span className="text-[10px] font-black uppercase tracking-[0.3em] text-[#108561]">
                 {product.brand.name}
               </span>
             )}
-            {product.category && (
+            {product.category?.title && (
               <span className="text-[8px] font-black uppercase tracking-widest text-zinc-300">
                 {product.category.title}
               </span>
