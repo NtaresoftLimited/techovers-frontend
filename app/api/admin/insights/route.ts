@@ -7,7 +7,10 @@ import {
   PRODUCTS_INVENTORY_QUERY,
   UNFULFILLED_ORDERS_QUERY,
   REVENUE_BY_PERIOD_QUERY,
+  REVENUE_BY_PERIOD_QUERY,
 } from "@/lib/sanity/queries/stats";
+
+export const dynamic = "force-dynamic";
 
 interface OrderItem {
   quantity: number;
@@ -163,7 +166,7 @@ export async function GET() {
     const avgOrderValue =
       recentOrders.length > 0
         ? recentOrders.reduce((sum, o) => sum + (o.total || 0), 0) /
-          recentOrders.length
+        recentOrders.length
         : 0;
 
     // Prepare data summary for AI
