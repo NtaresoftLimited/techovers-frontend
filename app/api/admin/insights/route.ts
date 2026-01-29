@@ -7,7 +7,6 @@ import {
   PRODUCTS_INVENTORY_QUERY,
   UNFULFILLED_ORDERS_QUERY,
   REVENUE_BY_PERIOD_QUERY,
-  REVENUE_BY_PERIOD_QUERY,
 } from "@/lib/sanity/queries/stats";
 
 export const dynamic = "force-dynamic";
